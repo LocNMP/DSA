@@ -21,7 +21,7 @@ int main() {
 
 		size++;
 	}
-
+	
 	capacity = 1;
 	size = 0;
 	long long copyAdditive = 0;
