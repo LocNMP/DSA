@@ -1,1 +1,41 @@
+# ========================
+# macOS System Files
+# ========================
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ========================
+# C / C++ Compiled & Debug Files
+# ========================
+# Binary executables không có đuôi mở rộng (như file main)
+main
+*.out
+*.exe
+*.o
+*.obj
+
+# Thư mục build output
+build/
+bin/
+
+# Debug symbols trên macOS
+*.dSYM/
+
+# ========================
+# VS Code Configuration (Tùy chọn)
+# ========================
+# Giữ tasks.json / launch.json nếu muốn chia sẻ cấu hình, 
+# nhưng bỏ qua cache lịch sử nếu có
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/settings.json
+
+# ========================
+# Input / Output tạm thời (nếu không muốn commit)
+# ========================
+# Bỏ comment nếu bạn chỉ muốn giữ code chứ không push file test:
+# input.txt
+# output.txt
