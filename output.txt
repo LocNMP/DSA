@@ -1,0 +1,5 @@
+Chọn chức năng: 
+1. Thêm vào đầu danh sách 
+2. In danh sách liên kết 
+1
+3

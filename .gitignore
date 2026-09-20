@@ -37,5 +37,5 @@ bin/
 # Input / Output tạm thời (nếu không muốn commit)
 # ========================
 # Bỏ comment nếu bạn chỉ muốn giữ code chứ không push file test:
-# input.txt
-# output.txt
+input.txt
+output.txt
