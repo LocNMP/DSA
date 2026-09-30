@@ -1,4 +1,3 @@
-//C8 — P1 — Tra cứu mã vé hợp lệ
 #include <iostream>
 #include <string>
 #include <unordered_map>
